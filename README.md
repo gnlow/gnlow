@@ -4,4 +4,4 @@
   </b>
 </p>
 
-<img src="./.png" align="right" width="10%">
+<img src="https://github.com/gnlow/gnlow/blob/master/.png" align="right" width="10%">
