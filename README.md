@@ -8,4 +8,5 @@
 ## Random
 [![bitwise-shuffle](https://github-readme-stats.vercel.app/api/pin/?username=gnlow&repo=bitwise-shuffle)](https://github.com/gnlow/bitwise-shuffle)
 [![olmang](https://github-readme-stats.vercel.app/api/pin/?username=gnlow&repo=olmang)](https://github.com/gnlow/olmang)
-## Coming soon...
+## Someday...
+Conlang, Transportation, Civic Hacking, Memetics, AI, Web Crawler, UI Design, Rhythm Game
