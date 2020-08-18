@@ -5,3 +5,7 @@
 ## [Entry](https://playentry.org)
 [![Ent2ml](https://github-readme-stats.vercel.app/api/pin/?username=gnlow&repo=Ent2ml)](https://github.com/gnlow/Ent2ml)
 [![Dalkak](https://github-readme-stats.vercel.app/api/pin/?username=gnlow&repo=Dalkak)](https://github.com/gnlow/Dalkak)
+## Random
+[![bitwise-shuffle](https://github-readme-stats.vercel.app/api/pin/?username=gnlow&repo=bitwise-shuffle)](https://github.com/gnlow/bitwise-shuffle)
+[![olmang](https://github-readme-stats.vercel.app/api/pin/?username=gnlow&repo=olmang)](https://github.com/gnlow/olmang)
+## Coming soon...
