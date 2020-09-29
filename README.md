@@ -1,5 +1,5 @@
-<p align="center">
+<h1 align="center">
   🌴🐢❤️💻
   <br/>
   <b>Gnlow</b>
-</p>
+</h1>
