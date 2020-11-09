@@ -11,7 +11,7 @@
 </h1>
 
 ## Representative works
-### 🔍 [Ent2.ml](https://github.com/gnlow/Ent2ml)
+### 🔍 [Ent2.ml](https://ent2.ml)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff)
 ![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)
