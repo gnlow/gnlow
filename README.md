@@ -22,3 +22,7 @@
 ### 👪 [Hoching](https://github.com/gnlow/Hoching)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)  
 TypeScript **kinship terminology** library
+
+<p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgnlow&count_bg=%23151155&title_bg=%23151155&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
+</p>
