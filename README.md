@@ -15,7 +15,10 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff)
 ![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=fff)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=fff)  
-Stat viewer for https://playentry.org
+**Stat viewer** for https://playentry.org
 ### 🎲 [RandKid](https://github.com/randkid/Randkid)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)  
-Random profile generator 
+**Random profile** generator 
+### 👪 [Hoching](https://github.com/gnlow/Hoching)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)  
+TypeScript **kinship terminology** library
