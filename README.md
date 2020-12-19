@@ -7,7 +7,7 @@
   <a href="https://github.com/gnlow/files">📁</a>
   <a href="https://github.com/gnlow/howto">📚</a>
   <br/>
-  Gnlow, the Code-Artist
+  <img src="https://raw.githubusercontent.com/gnlow/gnlow/master/identity/gnlow/logo_201220_noframe.png" height="200"/>
 </h1>
 
 ## Representative works
