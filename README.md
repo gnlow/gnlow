@@ -23,6 +23,12 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)  
 TypeScript **kinship terminology** library
 
+## Side dishes
+- [**dscrtz**](https://github.com/gnlow/dscrtz): Generate random value from discrete distribution 
+- [**planter**](https://github.com/gnlow/planter): Create numbers from one seed
+- [**infinite-array**](https://github.com/gnlow/infinite-array): Infinite array mapping
+- [**lazywrap**](https://github.com/gnlow/lazywrap): Lazy-load async properties 
+
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgnlow&count_bg=%23151155&title_bg=%23151155&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 </p>
