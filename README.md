@@ -31,7 +31,7 @@ TypeScript **kinship terminology** library
 
 <p align="center">
   <a href="https://solved.ac/gnlowing">
-    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj="/>
+    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gnlowing"/>
   </a>
   <br/>
   <a href="https://hits.seeyoufarm.com">
