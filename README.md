@@ -1,10 +1,16 @@
 ```
 - i
-  - love very much
-    - prgrmmng       - music
-      - typescript     - zekk
-      - entry          - frums
-      - deno           - tak
-      - svelte         - tlt
-      - antlr          - thornapple
+  - love
+    - prgrmmng        - music           
+      - typescript      - zekk/psyqui
+      - entry           - frums/slrm
+      - deno            - tak
+      - svelte          - tlt
+      - antlr           - thornapple
+                        - billiummoto
+  - 'll love
+    - graphic         - compose
+      - blender         - fl
+      - after effect    - vital
+      - drawing         - piano
 ```
