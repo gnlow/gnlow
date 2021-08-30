@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gnlow/gnlow/master/identity/gnlow/banner_210831.png"/>
+  <img width=50% src="https://raw.githubusercontent.com/gnlow/gnlow/master/identity/gnlow/banner_210831.png"/>
 </p>
 
 <p align="center">
