@@ -1,8 +1,8 @@
-<p align="center">
-  <img width=50% src="https://raw.githubusercontent.com/gnlow/gnlow/master/identity/gnlow/banner_210831.png"/>
-</p>
+<img align="left" width=50% src="https://raw.githubusercontent.com/gnlow/gnlow/master/identity/gnlow/banner_210831.png"/>
 
 <p align="center">
+  <br/>
+  <br/>
   <a href="https://deno.land/">
     <img src="https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=fff"/>
   </a>
