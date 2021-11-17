@@ -1,7 +1,7 @@
-<img width=30% src="https://raw.githubusercontent.com/gnlow/gnlow/master/identity/gnlow/banner_210831.png"/>
-
+<img align=left height=100px src="https://raw.githubusercontent.com/gnlow/gnlow/master/identity/gnlow/banner_210831.png"/>
 <p>
-  <img align=left height=65px src="https://sensa-co.s3-eu-west-1.amazonaws.com/emojis/Heart.svg"/>
+<p align=right>
+  <img align=right height=65px src="https://sensa-co.s3-eu-west-1.amazonaws.com/emojis/Heart.svg"/>
   <a href="https://vercel.com">
     <img height=30px src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff"/>
   </a>
@@ -20,8 +20,8 @@
   </a>
 </p>
 
-<p>  
-  <img align=left height=65px src="https://sensa-co.s3-eu-west-1.amazonaws.com/emojis/Pencil.svg"/>
+<p align=right>  
+  <img align=right height=65px src="https://sensa-co.s3-eu-west-1.amazonaws.com/emojis/Pencil.svg"/>
   <a href="https://ent2.ml">
     <img height=30px src="https://img.shields.io/badge/2018~2020-Ent2.ml-E16E48?style=for-the-badge&labelColor=E16E48"/>
   </a>
@@ -29,4 +29,5 @@
   <a href="https://github.com/randkid/Randkid">
     <img height=30px src="https://img.shields.io/badge/2020~2021-Randkid-FFCB4C?style=for-the-badge&labelColor=FFCB4C"/>
   </a>
+</p>
 </p>
