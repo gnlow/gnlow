@@ -20,7 +20,7 @@
 
 <p align=right>
   <a href="https://solved.ac/profile/gnlowing">
-    <img align=left height=30px src="https://img.shields.io/badge/BOJ-B5-9d4900?style=for-the-badge&labelColor=ddd"/>
+    <img align=left width=15% src="https://img.shields.io/badge/solved.ac-B5-9d4900?style=for-the-badge&labelColor=ddd"/>
   </a>
   <img align=right height=65px src="https://sensa-co.s3-eu-west-1.amazonaws.com/emojis/Pencil.svg"/>
   <a href="https://ent2.ml">
