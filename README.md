@@ -1,4 +1,4 @@
-<img align=left height=180px src="https://raw.githubusercontent.com/gnlow/gnlow/master/identity/gnlow/banner_210831.png"/>
+<img align=left width=550px src="https://raw.githubusercontent.com/gnlow/gnlow/master/identity/gnlow/banner_210831.png"/>
 
 <p align=right>
   <img align=right height=65px src="https://sensa-co.s3-eu-west-1.amazonaws.com/emojis/Heart.svg"/>
@@ -26,13 +26,14 @@
   <a href="https://github.com/randkid/Randkid">
     <img height=30px src="https://img.shields.io/badge/2020~2021-Randkid-FFCB4C?style=for-the-badge&labelColor=FFCB4C"/>
   </a>
-  <p align=left>
-    <img src="https://via.placeholder.com/27/fff/fff"/>
-    <a href="https://solved.ac/profile/gnlowing">
-      <img height=30px src="https://img.shields.io/badge/solved.ac-B5-9d4900?style=for-the-badge&labelColor=ddd"/>
-    </a>
-    <a href="https://github.com/gnlow?tab=repositories">
-      <img height=30px src="https://img.shields.io/github/stars/gnlow?color=181717&logo=github&style=for-the-badge&labelColor=ddd&logoColor=181717"/>
-    </a>
-  </p>
+</p>
+
+<p align=left>
+  <img src="https://via.placeholder.com/27/fff/fff"/>
+  <a href="https://github.com/gnlow?tab=repositories">
+    <img height=30px src="https://img.shields.io/github/stars/gnlow?color=181717&logo=github&style=for-the-badge&labelColor=eee&logoColor=181717"/>
+  </a>
+  <a href="https://solved.ac/profile/gnlowing">
+    <img height=30px src="https://img.shields.io/badge/solved.ac-B5-9d4900?style=for-the-badge&labelColor=eee"/>
+  </a>
 </p>
