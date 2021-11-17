@@ -24,7 +24,7 @@
   </a>
   <img align=right height=65px src="https://sensa-co.s3-eu-west-1.amazonaws.com/emojis/Pencil.svg"/>
   <a href="https://ent2.ml">
-    <img height=30px src="https://img.shields.io/badge/2018~2020-​ Ent2.ml-E16E48?style=for-the-badge&labelColor=E16E48"/>
+    <img height=30px src="https://img.shields.io/badge/2018~2020-​ Ent2.ml-E05A54?style=for-the-badge&labelColor=E05A54"/>
   </a>
   <br/>
   <a href="https://github.com/randkid/Randkid">
