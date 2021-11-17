@@ -1,5 +1,5 @@
 <img width=30% src="https://raw.githubusercontent.com/gnlow/gnlow/master/identity/gnlow/banner_210831.png"/>
-<img align=left height=70px src="https://sensa-co.s3-eu-west-1.amazonaws.com/emojis/Heart.svg"/>
+<img align=left height=65px src="https://sensa-co.s3-eu-west-1.amazonaws.com/emojis/Heart.svg"/>
 <a href="https://vercel.com">
   <img height=30px src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff"/>
 </a>
