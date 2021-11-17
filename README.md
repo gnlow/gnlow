@@ -11,10 +11,10 @@
   </a>
   <br/>
   <a href="https://www.typescriptlang.org">
-    <img height=30px src="https://img.shields.io/badge/TS-007ACC?style=for-the-badge&logo=typescript&logoColor=fff"/>
+    <img height=30px src="https://img.shields.io/badge/​  TS  ​-007ACC?style=for-the-badge&logo=typescript&logoColor=fff"/>
   </a>
   <a href="https://svelte.dev">
-    <img height=30px src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=fff"/>
+    <img height=30px src="https://img.shields.io/badge/​ Svelte ​-FF3E00?style=for-the-badge&logo=svelte&logoColor=fff"/>
   </a>
 </p>
 
