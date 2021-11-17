@@ -1,4 +1,4 @@
-<img align=left width=550px src="https://raw.githubusercontent.com/gnlow/gnlow/master/identity/gnlow/banner_210831.png"/>
+<img align=left width=500px src="https://raw.githubusercontent.com/gnlow/gnlow/master/identity/gnlow/banner_210831.png"/>
 
 <p align=right>
   <img align=right height=65px src="https://sensa-co.s3-eu-west-1.amazonaws.com/emojis/Heart.svg"/>
