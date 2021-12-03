@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <image id="light" xlink:href="https://github.com/gnlow/gnlow/blob/master/identity/gnlow/banner_211203.png?raw=true" />
-    <image id="dark" xlink:href="https://github.com/gnlow/gnlow/blob/master/identity/gnlow/banner_211203_dark.png?raw=true" />
+    <image id="light" xlink:href="https://raw.githubusercontent.com/gnlow/gnlow/master/identity/gnlow/banner_211203.png" />
+    <image id="dark" xlink:href="https://raw.githubusercontent.com/gnlow/gnlow/master/identity/gnlow/banner_211203_dark.png" />
     <style>
         #light {
             visibility: visible;
