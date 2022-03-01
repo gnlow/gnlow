@@ -1,3 +1,3 @@
 <p align=center>
-  <img width=500px src="https://raw.githubusercontent.com/gnlow/gnlow/master/identity/gnlow/banner_211203.png"/>
+  <img width=100% src="https://raw.githubusercontent.com/gnlow/gnlow/master/identity/gnlow/banner_220301_transparent.png"/>
 </p>
