@@ -8,12 +8,16 @@
 - 2017
 - 사전 기반으로 외우기 쉬운 무작위 암수(패스프레이즈)를 생성해주는 시스템.
 - `flutefriend01`같은 비밀번호를 생성해준다.
-
-### Jevi <img height=20px src="https://skillicons.dev/icons?i=html,js,heroku"/>
+### 블록코딩 플랫폼 오픈소스를 이용한 API 불러오기 구현 <img height=20px src="https://skillicons.dev/icons?i=js"/>
+- 2018
+- 엔트리를 포크해서 외부 API에 접근하는 블럭을 추가했다.
+  - 아마 엔트리에 새로운 블럭 추가하는 방법 연구한건 내가 최초일 것이다.
+  - 시간이 지나고 다른 유저들도 여러가지 확장 블럭을 개발했다.
+- 내가 이걸 만들고 얼마 있지 않아 엔트리에 날씨 기능이 추가된걸로 봐서, 이미 그전부터 만들고 있었던듯?
+### Jevi <img height=20px src="https://skillicons.dev/icons?i=js,heroku"/>
 - 2018-11-24
 - 엔트리에서 실시간 변수를 이용할 수 있게 하는 스크립트다.
   - Heroku에 Jevi 서버를 올려놓고, 클라이언트가 개발자 도구로 Jevi 스크립트를 다운받아 실행하는 방식이다.
-  - 아마도 나의 첫 JavaScript 프로젝트.
   - 맙소사, node_modules와 인증서 파일을 그대로 repo에 넣어놨다!
 - 엔트리에서는 약 1년 후인 2020년 3월에 공식적으로 실시간 변수가 추가됐다.
 ### Ent2ml <img height=20px src="https://skillicons.dev/icons?i=html,js,css,jquery"/>
