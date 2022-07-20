@@ -34,7 +34,18 @@
 ### Jevi-Injector <img height=20px src="https://skillicons.dev/icons?i=js,html"/>
 - 2019-02-25
 - Jevi 기능을 개발자 도구 없이 사용할 수 있게 해주는 확장 프로그램
+### SMTC <img height=20px src="https://skillicons.dev/icons?i=js,html,css,vue"/>
+- 2019-06-02 ~ 2019-08-15
+- 유저 주최 엔트리 대회인 "쇼미더코딩"의 웹사이트.
 ### minjune.js <img height=20px src="https://skillicons.dev/icons?i=js"/>
 - 2019-07-09 ~ 2019-08-25
 - 이름, 나이 등 캐릭터 정보를 무작위로 생성해주는 라이브러리.
   - 흔한 이름을 더 많이 나오게 하기 위해 이름을 그 비율만큼 반복해서 배열에 넣어놓는 정신나간 방법을 썼다.
+### Dalkak <img height=20px src="https://skillicons.dev/icons?i=ts"/>
+- 2019-08-06 ~ 2020-03-28
+- 블록코딩 플랫폼 2트.
+- 내 모든 프로젝트를 통틀어 가장 개발 기간이 길었던 프로젝트다. 그만큼 애정도 많았지만... 결국 능력의 한계를 느끼고 접었다.
+  - 이걸 만들때는 막 TypeScript를 배웠을 때 즈음이라, 한창 "정적 타입"의 매력에 빠져있을 때였다.
+  - 하지만 그게 복잡한 오브젝트에 완벽한 타입을 부여하려고 시간을 쓰는 등 오히려 독이 되었던 것 같다.
+  - 그리고 지금은 해결된 그 당시 TS의 문제점들(추론이 제대로 안된다거나...)때문에 GitHub Issue나 sof 검색하는데에도 시간을 많이 썼다.
+  - 쩝... 아쉽지만 재밌었어ㅠ!
