@@ -50,7 +50,25 @@
   - 하지만 그게 복잡한 오브젝트에 완벽한 타입을 부여하려고 시간을 쓰는 등 오히려 독이 되었던 것 같다.
   - 그리고 지금은 해결된 그 당시 TS의 문제점들(추론이 제대로 안된다거나...)때문에 GitHub Issue나 sof 검색하는데에도 시간을 많이 썼다.
   - 쩝... 아쉽지만 재밌었어ㅠ!
-- 로고가 꽤ㄹ주거지별로 알맞은 학교 정보를 생성하기 위해 proj4 등 지리 관련 라이브러리도 써봤다.
+- 로고가 꽤 마음에 든다. (물론 내가 만들었지만..)
+### array-switch <img height=20px src="https://skillicons.dev/icons?i=ts"/>
+- 2019-11-16
+- 분기가 가능한 배열을 다루는 라이브러리.
+### froll.js <img height=20px src="https://skillicons.dev/icons?i=ts"/>
+- 2019-11-29
+- 경우의 수를 다루는 라이브러리.
+### Nalzza <img height=20px src="https://skillicons.dev/icons?i=ts"/>
+- 2020-01-19
+- 날짜 파싱 라이브러리.
+### Randkid <img height=20px src="https://skillicons.dev/icons?i=ts,deno"/>
+- 2020-05-18 ~ 2020-09-15
+- planter, nickname-analyzer deno-xxhash, dscrtz, olmang, infinite-array, bitwise-shuffle
+- 1년전에 만들었던 minjune.js를 발전시킨 프로젝트.
+  - 클래스 인스턴스를 이용해 프로필 항목별로 랜덤 시드를 분리시키는 등 재밌는 기능이 있다.
+  - ent2ml가 더불어서 내가 제일 애정하는 프로젝트!
+  - 이 프로젝트를 계기로 표준편차, 왜도, 첨도 등 통계학에 관심을 가지게 되었다.
+  - 여러가지 항목을 적은 가짓수의 파라미터로 바꾸기 위해 PCA(주성분분석)도 썼다.
+  - 게다가 주거지별로 알맞은 학교 정보를 생성하기 위해 proj4 등 지리 관련 라이브러리도 써봤다.
 #### nickname-analyzer
 - Randkid의 하위 프로젝트로, 랜덤 닉네임을 생성하기 위해 인터넷 사이트(역시나, 엔트리) 유저들의 닉네임 유형을 분석했다.
 - 결과적으로, 길이는 8자가 가장 많은 종모양 분포를 띄고, 유형별로는 `문자 + 숫자 4글자`, `문자만`, `문자 + 숫자 2글자` 순으로 많았다.
