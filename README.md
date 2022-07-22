@@ -65,6 +65,10 @@
   - 다양한 기능을 추가할 계획이었으냐 의원 목록과 정당별 의석수를 보여주는 것 까지만 구현됨.
   - 비록 미완성이지만, Deno, Vercel, Svelte 등 새로운 기술을 배울 수 있었다.
 - 이건 나중에 시간나면 완성시키고 싶다.
+### c4 <img height=20px src="https://skillicons.dev/icons?i=js"/>
+- 2020-08-19
+- 브라우저에서 세자리 콤마로 된 숫자를 모두 네자리 콤마로 바꿔주는 UserScript.
+  - 나는 지금 쓰고있는 세자리 콤마는 없느니만 못하다고 생각한다.
 ### Ent2ml 리뉴얼 <img height=20px src="https://skillicons.dev/icons?i=ts,deno,html,css,svelte,vercel,actions,xd"/>
 - 2020-09-01 ~ 2020~11-08
 - deno-playentry
@@ -91,8 +95,7 @@
 - 가족 호칭 계산 라이브러리
   - 놀랍게도 호칭 계산 라이브러리가 없는 걸 보고 만들었다. (내가 못찾은 걸수도 있지만..)
   - 한국어와 영어를 지원한다.
-    - 영어는 그냥 `brother`인데 한국어는 `형`, `오빠`, `남동생`을 구별해야 하고,
-      한국어는 그냥 `조카`인데 영어는 `nephew`, `niece`를 구별하는 등 미묘한 차이가 있다.
+    - 영어는 그냥 `brother`인데 한국어는 `형`, `오빠`, `남동생`을 구별해야 하고, 한국어는 그냥 `조카`인데 영어는 `nephew`, `niece`를 구별하는 등 미묘한 차이가 있다.
 - 이후에 reddit에서 봤는데, 언어별로 가족 호칭 구조가 다양하더라. 더 다양한 언어의 호칭을 구현하는 라이브러리를 연구할 필요가 있겠다.
 ### kr.bns.json <img height=20px src="https://skillicons.dev/icons?i=js"/>
 - 2020-12-15 ~ 2020-12-17
@@ -108,3 +111,31 @@
 - 2021-01-23 ~ 2021-02-03
 - Deno에서 Svelte를 쉽게 쓸 수 있게 해주는 템플릿 로더.
   - 하지만 이미 Snel이라는 도구가 있었다는 걸 알게되고 접었다.
+### corsi <img height=20px src="https://skillicons.dev/icons?i=ts,deno"/>
+- 2021-03-26
+- 로컬 개발환경에서 CORS를 우회하기 위한 심플한 프록시 서버다.
+### Jabo <img height=20px src="https://skillicons.dev/icons?i=ts,deno,antlr4"/>
+- 2021-05-24 ~ 2022-02-28
+- antlr4ts-deno
+- 나만의 프로그래밍 언어!
+  - 이건 정말 예전, 프로그래밍 언어를 배우기 시작했을 때쯤부터 꿈꿔왔던 프로젝트다.
+  - Ent2ml 리뉴얼 이후로 진짜 열심히 만든 프로젝트.
+  - 쉽지는 않았지만, 그만큼 재밌고, 완성하자는 열망이 컸기 때문에 9개월동안이나 붙잡고 있을 수 있었다.
+  - 이제보니 Dalkak보다 오래 붙잡고 있었네... 역시 오래 붙잡으면 망한다.
+  - 사실 언어를 구현하는 것보다 디자인하는 것에서 어려움을 느꼈다.
+  - 파서 제너레이터인 Antlr4를 잘 쓸 수 있게 되었다.
+### boj <img height=20px src="https://skillicons.dev/icons?i=ts,deno"/>
+- 2022-02-15 ~
+- 그냥 백준 풀기.
+  - Jabo 프로젝트를 하면서 알고리즘 실력이 부족함을 느꼈나보다..
+  - 근데 이게 생각보다 어렵다. 실버도 겨우 땄다.. 이런거 잘하는 사람들 보면 너무 신기하다.
+### Dksemfh <img height=20px src="https://skillicons.dev/icons?i=lua"/>
+- 2022-06-17 ~ 2022-06-18
+- 한국어 -> 안드로어 번역기, 근데 이제 Lua를 곁들인
+  - 안드로어라고 써놨지만 사실 간단한 한영타 변환이다.
+  - 근데 문제는 Lua 5.1이 유니코드 지원을 똑바로 안한다는 것이다...
+    - 미디어위키 모듈로 쓸 용도였기 때문에 어쩔 수 없이 5.1을 사용해야 했다. 망할 파편화ㅜ
+  - 그래서 정규식으로 세글자씩 끊어서 변환해야 했다. (한글 한 글자가 length 3으로 인식됨)
+### deno-mw <img height=20px src="https://skillicons.dev/icons?i=ts,deno"/>
+- 2022-07-03 ~ 2022-07-15
+- MediaWiki API Wrapper
