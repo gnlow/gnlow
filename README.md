@@ -96,3 +96,7 @@
 ### deno-mw (미완) <img height=20px src="https://skillicons.dev/icons?i=ts,deno"/>
 - 2022-07-03 ~ 2022-07-15
 - MediaWiki API Wrapper
+### fft <img height=20px src="https://skillicons.dev/icons?i=ts,deno"/>
+- 2022-07-05
+- FFT 구현
+  - 아~ 완벽히 이해했어! (이해못했음)
