@@ -100,3 +100,13 @@
 - 2022-07-05
 - FFT 구현
   - 아~ 완벽히 이해했어! (이해못했음)
+### Temflake <img height=20px src="https://skillicons.dev/icons?i=lua"/>
+- 2022-08-12 ~
+- YAML -> MediaWiki 테이블 변환기
+### svgen <img height=20px src="https://skillicons.dev/icons?i=ts,deno"/>
+- 2022-08-15 ~
+- JSX를 이용한 SVG 모듈화
+### learn-python <img height=20px src="https://skillicons.dev/icons?i=py"/>
+- 2022-08-24 ~
+- 그냥 Python + NumPy 배우기
+
