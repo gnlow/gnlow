@@ -109,4 +109,6 @@
 ### learn-python <img height=20px src="https://skillicons.dev/icons?i=py"/>
 - 2022-08-24 ~
 - 그냥 Python + NumPy 배우기
+### learn-gf
+### Hiamoe
 
