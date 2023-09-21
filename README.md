@@ -5,25 +5,6 @@
 
 ---
 
-### 이달의 관심사
-
-| | | Ranking |
-|-|-|-|
-|1|▲   | **지도**<br>QGIS · Leaflet · Mapshaper · TopoJSON
-|2|▲   | **개발 환경 · Live Coding**<br>Lezer · CodeMirror
-|3|▲   | **Atomic CSS**<br>AdorableCSS · UnoCSS
-|4|▼   | **작곡**<br>Helio
-|5|▲   | **인공어 · 세계관**<br>
-|6|-   | **Web**<br>Svelte · Vercel · Deno
-|7|▲   | **Semantic Web · Graph DB**<br>RDF · Triple Store · Wikidata
-|8|New!| **DB · SQL**<br>Supabase · Prisma · PostgreSQL
-|9|▲   | **게임 개발**<br>Phaser · PixiJS
-| |▼   | **타이포그래피 · 폰트**<br>FontForge · UFO · OpenType
-| |▼   | **프로그래밍 언어**<br>Prolog · CUE
-| |▼   | **군론 · 조합론**<br>Burnside's Lemma
-
----
-
 <p align=center>
   <img width=100% src="https://raw.githubusercontent.com/gnlow/gnlow/master/identity/gnlow/banner_220707.svg"/>
   <img height=30px src="./Heart.svg"/><br>
