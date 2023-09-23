@@ -11,16 +11,25 @@
   <img height=30px src="https://skillicons.dev/icons?i=deno,ts,svelte"/>
 </p>
 
+<details>
+<summary><b>~2018</b> <img height=20px src="https://skillicons.dev/icons?i=js,nodejs,heroku"/></summary>
+
 ### 무작위 난수를 이용한 보안 시스템 제작 [앱인벤터]
 - 2017
 - 사전 기반으로 외우기 쉬운 무작위 암수(패스프레이즈)를 생성해주는 시스템
 - `flutefriend01`같은 비밀번호를 생성해준다.
+
 ### 블록코딩 플랫폼 오픈소스를 이용한 API 불러오기 구현 <img height=20px src="https://skillicons.dev/icons?i=js"/>
 - 2018
 - 엔트리를 포크해서 외부 API에 접근하는 블럭을 추가했다.
 ### Jevi <img height=20px src="https://skillicons.dev/icons?i=js,nodejs,heroku"/>
 - 2018-11-24
 - 엔트리에서 실시간 변수를 이용할 수 있게 하는 스크립트
+
+</details>
+<details>
+<summary><b>2019</b> <img height=20px src="https://skillicons.dev/icons?i=js,html,css,jquery,vue,ts"/></summary>
+
 ### Ent2ml <img height=20px src="https://skillicons.dev/icons?i=js,html,css,jquery"/>
 - 2019-01-09 ~ 2019-01-20
 - 엔트리 유저별 좋아요/조회수를 정리해 보여주는 웹사이트
@@ -46,6 +55,11 @@
 ### froll.js <img height=20px src="https://skillicons.dev/icons?i=ts"/>
 - 2019-11-29
 - 경우의 수를 다루는 라이브러리
+
+</details>
+<details>
+<summary><b>2020</b> <img height=20px src="https://skillicons.dev/icons?i=ts,deno,html,css,svelte,vercel,xd"/></summary>
+
 ### Nalzza <img height=20px src="https://skillicons.dev/icons?i=ts"/>
 - 2020-01-19
 - 날짜 파싱 라이브러리
@@ -64,7 +78,7 @@
 ### c4 <img height=20px src="https://skillicons.dev/icons?i=js"/>
 - 2020-08-19
 - 브라우저에서 세자리 콤마로 된 숫자를 모두 네자리 콤마로 바꿔주는 UserScript.
-### Ent2ml 리뉴얼 <img height=20px src="https://skillicons.dev/icons?i=ts,deno,html,css,svelte,vercel,actions,xd"/>
+### Ent2ml 리뉴얼 <img height=20px src="https://skillicons.dev/icons?i=ts,deno,html,css,svelte,vercel,xd"/>
 - 2020-09-01 ~ 2020~11-08
 - deno-playentry
 - jQuery를 쓰고, 클라이언트에서 엔트리 서버로 API 요청을 보내는 등 여러모로 문제가 많았던 기존 Ent2ml을 리뉴얼했다.
@@ -81,6 +95,11 @@
 ### kr.bns.json <img height=20px src="https://skillicons.dev/icons?i=js"/>
 - 2020-12-15 ~ 2020-12-17
 - Brand New Subway라는 게임의 한국 (수도권) 전철 모드
+
+</details>
+<details>
+<summary><b>2021</b> <img height=20px src="https://skillicons.dev/icons?i=ts,deno"/></summary>
+
 ### Yamlow <img height=20px src="https://skillicons.dev/icons?i=ts,deno"/>
 - 2021-01-16
 - GitHub Actions에서 영감을 받아 만든 YAML기반 프로그래밍 언어 제작 툴
@@ -94,6 +113,11 @@
 - 2021-05-24 ~
 - antlr4ts-deno
 - 나만의 프로그래밍 언어!
+
+</details>
+<details>
+<summary><b>2022</b> <img height=20px src="https://skillicons.dev/icons?i=ts,deno,lua,py"/></summary>
+
 ### boj <img height=20px src="https://skillicons.dev/icons?i=ts,deno"/>
 - 2022-02-15 ~
 - 그냥 백준 풀기
@@ -118,4 +142,10 @@
 - 그냥 Python + NumPy 배우기
 ### learn-gf
 ### Hiamoe
+
+</details>
+<details>
+<summary><b>2023</b></summary>
+
+</details>
 
