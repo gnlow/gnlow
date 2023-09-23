@@ -12,7 +12,7 @@
 </p>
 
 <details>
-<summary><b>~2018</b> <img height=20px src="https://skillicons.dev/icons?i=js,nodejs,heroku"/></summary>
+<summary><b><code>~2018</code></b> <img height=20px src="https://skillicons.dev/icons?i=js,nodejs,heroku"/></summary>
 
 ### 무작위 난수를 이용한 보안 시스템 제작 [앱인벤터]
 - 2017
@@ -28,7 +28,7 @@
 
 </details>
 <details>
-<summary><b>2019</b> <img height=20px src="https://skillicons.dev/icons?i=js,html,css,jquery,vue,ts"/></summary>
+<summary><b><code> 2019</code></b> <img height=20px src="https://skillicons.dev/icons?i=js,html,css,jquery,vue,ts"/></summary>
 
 ### Ent2ml <img height=20px src="https://skillicons.dev/icons?i=js,html,css,jquery"/>
 - 2019-01-09 ~ 2019-01-20
@@ -58,7 +58,7 @@
 
 </details>
 <details>
-<summary><b>2020</b> <img height=20px src="https://skillicons.dev/icons?i=ts,deno,html,css,svelte,vercel,xd"/></summary>
+<summary><b><code> 2020</code></b> <img height=20px src="https://skillicons.dev/icons?i=ts,deno,html,css,svelte,vercel,xd"/></summary>
 
 ### Nalzza <img height=20px src="https://skillicons.dev/icons?i=ts"/>
 - 2020-01-19
@@ -98,7 +98,7 @@
 
 </details>
 <details>
-<summary><b>2021</b> <img height=20px src="https://skillicons.dev/icons?i=ts,deno"/></summary>
+<summary><b><code> 2021</code></b> <img height=20px src="https://skillicons.dev/icons?i=ts,deno"/></summary>
 
 ### Yamlow <img height=20px src="https://skillicons.dev/icons?i=ts,deno"/>
 - 2021-01-16
@@ -116,7 +116,7 @@
 
 </details>
 <details>
-<summary><b>2022</b> <img height=20px src="https://skillicons.dev/icons?i=ts,deno,lua,py"/></summary>
+<summary><b><code> 2022</code></b> <img height=20px src="https://skillicons.dev/icons?i=ts,deno,lua,py"/></summary>
 
 ### boj <img height=20px src="https://skillicons.dev/icons?i=ts,deno"/>
 - 2022-02-15 ~
@@ -145,7 +145,7 @@
 
 </details>
 <details>
-<summary><b>2023</b></summary>
+<summary><b><code> 2023</code></b></summary>
 
 </details>
 
