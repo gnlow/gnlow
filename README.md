@@ -96,10 +96,11 @@
 ### corsi <img height="20px" src="https://skillicons.dev/icons?i=ts,deno"></img>
 - 2021-03-26
 - 로컬 개발환경에서 CORS를 우회하기 위한 심플한 프록시 서버
-### Jabo (개발중) <img height="20px" src="https://skillicons.dev/icons?i=ts,deno,antlr4"></img>
-- 2021-05-24 ~
+### Jabo <img height="20px" src="https://skillicons.dev/icons?i=ts,deno,antlr4"></img>
+- 2021-05-24 ~ 2023-01-16
 - antlr4ts-deno
 - 나만의 프로그래밍 언어!
+- -> #Zy
 </details>
 <details><summary><b><code> 2022</code></b> <img height="20px" src="https://skillicons.dev/icons?i=ts,deno,lua,py"></img></summary>
 
@@ -117,12 +118,90 @@
 - FFT 구현
 - 아~ 완벽히 이해했어! (이해못했음)
 ### Temflake <img height="20px" src="https://skillicons.dev/icons?i=lua"></img>
-- 2022-08-12 ~
+- 2022-08-12 ~ 2022-09-08
 - YAML -> MediaWiki 테이블 변환기
 ### svgen <img height="20px" src="https://skillicons.dev/icons?i=ts,deno"></img>
-- 2022-08-15 ~
+- 2022-08-15 ~ 2022-09-17
 - JSX를 이용한 SVG 모듈화
 ### learn-python <img height="20px" src="https://skillicons.dev/icons?i=py"></img>
-- 2022-08-24 ~
+- 2022-08-24 ~ 2022-09-28
 - 그냥 Python + NumPy 배우기
+### Yirule/geo <img height="20px" src="https://skillicons.dev/icons?i=qgis"></img>
+- 2022-09-29 ~ 2022-11-14
+- QGIS와 지도 편집 배우기
+</details>
+<details><summary><b><code> 2023</code></b> <img height="20px" src="https://skillicons.dev/icons?i=ts,deno,html,md,svelte,codemirror,lezer,jsx"></img></summary>
+
+### Zy (개발중)
+- 2023-02-08 ~
+- 그냥 Jabo에서 이름만 바꾼 것
+- https://github.com/zyland
+### 삼각함수와 예술
+- 2023-04-17 ~ 2023-05-01
+- 학교 조별과제
+- 리사주, 클라드니 도형, 푸리에 변환
+- 보고서 쓰느라 힘들었다
+### Iteruyo <img height="20px" src="https://skillicons.dev/icons?i=ts"></img>
+- 2023-05-26 ~ 2023-07-02
+- Iterator 유틸리티 라이브러리
+- 사실 lodash 써도 되지만 직접 만들어보고 싶었다
+- 그래도 여러군데 유용하게 사용중
+### Zyo.ts <img height="20px" src="https://skillicons.dev/icons?i=ts"></img>
+- 2023-05-12 ~ 2023-05-16
+- Zy의 첫번째 구현체 (시도)
+- Trie 구조를 사용
+- 제대로 작동하지 않음
+- 어떻게 고쳐야할지 막막하다
+### Od <img height="20px" src="https://skillicons.dev/icons?i=ts"></img>
+- 2023-06-08 ~ 2023-08-07
+- 한붓그리기 인공문자
+- 학교 개인 프로젝트
+- 영혼을 갈아넣음
+### Flark <img height="20px" src="https://skillicons.dev/icons?i=ts,html"></img>
+- 2023-06-24 ~
+- FLexbox-based mARKup language
+- YAML과 비슷한 마크업 언어
+### iovma/sat-data <img height="20px" src="https://skillicons.dev/icons?i=ts"></img>
+- 2023-07-28 ~ 2023-08-02
+- 사트 틀 데이터 스크랩, 정규화
+### convertible <img height="20px" src="https://skillicons.dev/icons?i=ts"></img>
+- 2023-08-06
+- Automatic conversion
+- 그래프 탐색 / 자동 변환
+### Zy.js <img height="20px" src="https://skillicons.dev/icons?i=ts,lezer"></img>
+- 2023-08-22 ~
+- Zy 두번째 구현 시도
+- Thunk 기반 인터프리터
+### sketch2font (실패) <img height="20px" src="https://skillicons.dev/icons?i=ts,torch"></img>
+- 2023-08-22
+- 디퓨전 모델, 오토인코더 조사
+- 디퓨전 모델 학습시켜보기
+- 괴상한 노이즈만 출력됨ㅜ
+### entropy-of-language <img height="20px" src="https://skillicons.dev/icons?i=ts"></img>
+- 2023-08-25
+- 문자별 엔트로피 조사
+<pre><code>                        UDHR
+Language    Entropy Length  Bits
+italian     4.04    1802    7280.08
+german      4.16    1797    7475.52
+english     4.18    1647    6884.46
+zasokese    4.37    
+korean      4.47    1488    6651.36
+japanese    6.65    602     4003.3
+chinese     9.67    440     4254.8
+</code></pre>
+- .
+### iovma/map <img height="20px" src="https://skillicons.dev/icons?i=leaflet"></img>
+- 2023-06-26 ~ 2023-08-05
+- Leaflet으로 지도 만들기
+- 왜 아무도 Leaflet 대신 OpenLayers 쓰라고 말해주지 않은거야..
+### iovma/map-ol <img height="20px" src="https://skillicons.dev/icons?i=ts,openlayers"></img>
+- 2023-08-26 ~ 2023-08-29
+- OpenLayers로 지도 만들기
+### codemiro <img height="20px" src="https://skillicons.dev/icons?i=html"></img>
+- 2023-09-19 ~ 2023-09-22
+### molu <img height="20px" src="https://skillicons.dev/icons?i=ts,html,jsx"></img>
+- 2023-09-20 ~ 2023-09-22
+### xmd <img height="20px" src="https://skillicons.dev/icons?i=ts,md,jsx"></img>
+- 2023-09-24
 </details>
