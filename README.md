@@ -1,11 +1,3 @@
-
-- [/learn    ](https://github.com/gnlow-learn)
-- [/lab      ](https://github.com/gnlow-lab)
-- [/trashcan ](https://github.com/gnlow-trashcan)
-- [/yirule   ](https://github.com/yirule)
-
-
----
 <p align="center"><img width="100%" src="https://raw.githubusercontent.com/gnlow/gnlow/master/identity/gnlow/banner_220707.svg"></img><img height="30px" src="./Heart.svg"></img><br></br><img height="30px" src="https://skillicons.dev/icons?i=deno,ts,svelte"></img></p>
 <details><summary><b><code>~2018</code></b> <img height="20px" src="https://skillicons.dev/icons?i=js,nodejs,heroku"></img> </summary>
 
@@ -169,7 +161,7 @@
 - 2023-08-06
 - Automatic conversion
 - 그래프 탐색 / 자동 변환
-### Zy.js <img height="20px" src="https://skillicons.dev/icons?i=ts,lezer"></img> <img height="20px" src="./Zy.svg"></img>
+### Zy.js <img height="20px" src="https://skillicons.dev/icons?i=ts"></img> <img height="20px" src="./Zy.svg"></img>
 - 2023-08-22 ~
 - Zy 두번째 구현 시도
 - Thunk 기반 인터프리터
