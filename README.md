@@ -4,6 +4,7 @@
 - [/trashcan ](https://github.com/gnlow-trashcan)
 - [/yirule   ](https://github.com/yirule)
 
+
 ---
 <p align="center"><img width="100%" src="https://raw.githubusercontent.com/gnlow/gnlow/master/identity/gnlow/banner_220707.svg"></img><img height="30px" src="./Heart.svg"></img><br></br><img height="30px" src="https://skillicons.dev/icons?i=deno,ts,svelte"></img></p>
 <details><summary><b><code>~2018</code></b> <img height="20px" src="https://skillicons.dev/icons?i=js,nodejs,heroku"></img> </summary>
@@ -132,7 +133,7 @@
 </details>
 <details><summary><b><code> 2023</code></b> <img height="20px" src="https://skillicons.dev/icons?i=ts,deno,html,md,svelte"></img> <img height="20px" src="./Zy.svg"></img></summary>
 
-### Zy (개발중)
+### Zy (개발중) <img height="20px" src="./Zy.svg"></img>
 - 2023-02-08 ~
 - 그냥 Jabo에서 이름만 바꾼 것
 - https://github.com/zyland
