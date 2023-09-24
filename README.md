@@ -6,7 +6,7 @@
 
 ---
 <p align="center"><img width="100%" src="https://raw.githubusercontent.com/gnlow/gnlow/master/identity/gnlow/banner_220707.svg"></img><img height="30px" src="./Heart.svg"></img><br></br><img height="30px" src="https://skillicons.dev/icons?i=deno,ts,svelte"></img></p>
-<details><summary><b><code>~2018</code></b> <img height="20px" src="https://skillicons.dev/icons?i=js,nodejs,heroku"></img></summary>
+<details><summary><b><code>~2018</code></b> <img height="20px" src="https://skillicons.dev/icons?i=js,nodejs,heroku"></img> </summary>
 
 ### 무작위 난수를 이용한 보안 시스템 제작 [앱인벤터]
 - 2017
@@ -19,7 +19,7 @@
 - 2018-11-24
 - 엔트리에서 실시간 변수를 이용할 수 있게 하는 스크립트
 </details>
-<details><summary><b><code> 2019</code></b> <img height="20px" src="https://skillicons.dev/icons?i=js,html,css,jquery,vue,ts"></img></summary>
+<details><summary><b><code> 2019</code></b> <img height="20px" src="https://skillicons.dev/icons?i=js,html,css,jquery,vue,ts"></img> </summary>
 
 ### Ent2ml <img height="20px" src="https://skillicons.dev/icons?i=js,html,css,jquery"></img>
 - 2019-01-09 ~ 2019-01-20
@@ -47,7 +47,7 @@
 - 2019-11-29
 - 경우의 수를 다루는 라이브러리
 </details>
-<details><summary><b><code> 2020</code></b> <img height="20px" src="https://skillicons.dev/icons?i=ts,deno,html,css,svelte,vercel,xd"></img></summary>
+<details><summary><b><code> 2020</code></b> <img height="20px" src="https://skillicons.dev/icons?i=ts,deno,html,css,svelte,vercel,xd"></img> </summary>
 
 ### Nalzza <img height="20px" src="https://skillicons.dev/icons?i=ts"></img>
 - 2020-01-19
@@ -85,7 +85,7 @@
 - 2020-12-15 ~ 2020-12-17
 - Brand New Subway라는 게임의 한국 (수도권) 전철 모드
 </details>
-<details><summary><b><code> 2021</code></b> <img height="20px" src="https://skillicons.dev/icons?i=ts,deno"></img></summary>
+<details><summary><b><code> 2021</code></b> <img height="20px" src="https://skillicons.dev/icons?i=ts,deno"></img> </summary>
 
 ### Yamlow <img height="20px" src="https://skillicons.dev/icons?i=ts,deno"></img>
 - 2021-01-16
@@ -102,7 +102,7 @@
 - 나만의 프로그래밍 언어!
 - -> #Zy
 </details>
-<details><summary><b><code> 2022</code></b> <img height="20px" src="https://skillicons.dev/icons?i=ts,deno,lua,py"></img></summary>
+<details><summary><b><code> 2022</code></b> <img height="20px" src="https://skillicons.dev/icons?i=ts,deno,lua,py"></img> </summary>
 
 ### boj <img height="20px" src="https://skillicons.dev/icons?i=ts,deno"></img>
 - 2022-02-15 ~
@@ -130,7 +130,7 @@
 - 2022-09-29 ~ 2022-11-14
 - QGIS와 지도 편집 배우기
 </details>
-<details><summary><b><code> 2023</code></b> <img height="20px" src="https://skillicons.dev/icons?i=ts,deno,html,md,svelte,codemirror,lezer,jsx"></img></summary>
+<details><summary><b><code> 2023</code></b> <img height="20px" src="https://skillicons.dev/icons?i=ts,deno,html,md,svelte"></img> <img height="20px" src="./Zy.svg"></img></summary>
 
 ### Zy (개발중)
 - 2023-02-08 ~

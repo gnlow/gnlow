@@ -3,10 +3,14 @@ export const Skills = (_, {s}) => <img
     src={"https://skillicons.dev/icons?i=" + s}
 />
 
-export const Year = (s, {year, skills}) =>
+export const Year = (s, {year, skills, etc}) =>
     <details>
         <summary>
-            <b><code>{year}</code></b> <Skills s={skills}/>
+            <b><code>{year}</code></b>
+            {" "}
+            <Skills s={skills}/>
+            {" "}
+            {etc || ""}
         </summary>
         {"\n\n"+s}
     </details>
@@ -194,7 +198,11 @@ export const Year = (s, {year, skills}) =>
 
 <Year
     year=" 2023"
-    skills="ts,deno,html,md,svelte,codemirror,lezer,jsx"
+    skills="ts,deno,html,md,svelte"
+    etc={<img
+        height="20px"
+        src="./Zy.svg"
+    />}
 >
     ### Zy (개발중)
     - 2023-02-08 ~
