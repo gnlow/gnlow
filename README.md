@@ -147,7 +147,7 @@
 - Iterator 유틸리티 라이브러리
 - 사실 lodash 써도 되지만 직접 만들어보고 싶었다
 - 그래도 여러군데 유용하게 사용중
-### Zyo.ts <img height="20px" src="https://skillicons.dev/icons?i=ts"></img>
+### Zyo.ts <img height="20px" src="https://skillicons.dev/icons?i=ts"></img> <img height="20px" src="./Zy.svg"></img>
 - 2023-05-12 ~ 2023-05-16
 - Zy의 첫번째 구현체 (시도)
 - Trie 구조를 사용
@@ -169,7 +169,7 @@
 - 2023-08-06
 - Automatic conversion
 - 그래프 탐색 / 자동 변환
-### Zy.js <img height="20px" src="https://skillicons.dev/icons?i=ts,lezer"></img>
+### Zy.js <img height="20px" src="https://skillicons.dev/icons?i=ts,lezer"></img> <img height="20px" src="./Zy.svg"></img>
 - 2023-08-22 ~
 - Zy 두번째 구현 시도
 - Thunk 기반 인터프리터
