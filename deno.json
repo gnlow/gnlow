@@ -1,0 +1,5 @@
+{
+    "tasks": {
+        "readme": "deno run --allow-read --allow-write https://deno.land/x/xmd@0.1.1/compile.ts README.mdx"
+    }
+}
