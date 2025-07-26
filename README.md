@@ -32,7 +32,7 @@
 - [Od](https://github.com/gnlow/Od): Knotty Neography (2023)
 - [planet-generator-w](https://github.com/gnlow/planet-generator-w): Planet Generator, powered by WebGPU (2025)
 ### Educational Programming Environment
-- [Jevi](https://github.com/gnlow/Jevi): [Obsolete] Realtime Communication in EntryJS (2019)
+- [Jevi](https://github.com/gnlow/Jevi): [Obsolete] Realtime Communication in EntryJS (2018-2019)
 - [Ent2ml](https://github.com/gnlow/Ent2ml): [Obsolete] Stat Viewer Website for playentry.org (2019-2020)
 - [enz](https://github.com/dalkak2/enz): EntryJS Project Transpiler (2023)
 - [enz-pixi](https://github.com/dalkak2/enz-pixi): Performant EntryJS Runtime (2023-2025)
@@ -50,3 +50,9 @@
 ### Userscript
 - [c4](https://github.com/gnlow/c4): (2020)
 - [yt-unlister](https://github.com/gnlow/yt-unlister): (2025)
+
+### i
+
+- <img height="20px" src="./Heart.svg"/><img height="20px" src="https://skillicons.dev/icons?i=js"/> (2018-)
+- <img height="20px" src="./Heart.svg"/><img height="20px" src="https://skillicons.dev/icons?i=ts"/> (2019-)
+- <img height="20px" src="./Heart.svg"/><img height="20px" src="https://skillicons.dev/icons?i=deno"/> (2020-)
