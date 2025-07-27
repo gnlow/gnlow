@@ -21,29 +21,6 @@ export const links =
 ([str]) =>
     str.trim().split("\n").map(x => link(x.trim())).join("\n")
 
-{`
-### i want to:
-- understand the world
-    - sociology
-        - social geography
-        - sociolinguistics
-    - economics
-        - game theory
-            - evolutionarily stable strategy
-- serialize the world
-    - programming language theory
-    - mathematics
-        - statistics
-    - data science
-- generate the world
-    - computer science
-        - parallel computing
-            - webgpu
-    - video game
-        - procedural generation
-        - simulation
-`}
-
 ### Programming Language
 {links`
     @flark-lang/flark: Flexbox-first Markup Langauge (2023)
@@ -91,12 +68,3 @@ export const links =
     c4: (2020)
     yt-unlister: (2025)
 `}
-
-export const love =
-([items]) =>
-    `<img height="20px" src="./Heart.svg"/><img height="20px" src="https://skillicons.dev/icons?i=${items}"/>`
-
-### i
-- {love`js`} (2018-)
-- {love`ts`} (2019-)
-- {love`deno`} (2020-)

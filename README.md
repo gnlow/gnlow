@@ -1,28 +1,6 @@
 <p align="center"><img width="500px" src="./identity/gnlow/logo_250427.webp"></img></p>
 
 
-
-### i want to:
-- understand the world
-    - sociology
-        - social geography
-        - sociolinguistics
-    - economics
-        - game theory
-            - evolutionarily stable strategy
-- serialize the world
-    - programming language theory
-    - mathematics
-        - statistics
-    - data science
-- generate the world
-    - computer science
-        - parallel computing
-            - webgpu
-    - video game
-        - procedural generation
-        - simulation
-
 ### Programming Language
 - [flark](https://github.com/flark-lang/flark): Flexbox-first Markup Langauge (2023)
 - [Zy.js](https://github.com/zyland/Zy.js): Pattern Generating Markup Language (2023)
@@ -50,9 +28,3 @@
 ### Userscript
 - [c4](https://github.com/gnlow/c4): (2020)
 - [yt-unlister](https://github.com/gnlow/yt-unlister): (2025)
-
-### i
-
-- <img height="20px" src="./Heart.svg"/><img height="20px" src="https://skillicons.dev/icons?i=js"/> (2018-)
-- <img height="20px" src="./Heart.svg"/><img height="20px" src="https://skillicons.dev/icons?i=ts"/> (2019-)
-- <img height="20px" src="./Heart.svg"/><img height="20px" src="https://skillicons.dev/icons?i=deno"/> (2020-)
