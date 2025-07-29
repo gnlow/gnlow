@@ -13,7 +13,7 @@
 - [Jevi](https://github.com/gnlow/Jevi): [Obsolete] Realtime Communication in EntryJS (2018-2019)
 - [Ent2ml](https://github.com/gnlow/Ent2ml): [Obsolete] Stat Viewer Website for playentry.org (2019-2020)
 - [enz](https://github.com/dalkak2/enz): EntryJS Project Transpiler (2023)
-- [enz-pixi](https://github.com/dalkak2/enz-pixi): Performant EntryJS Runtime (2023-2025)
+- [enz-pixi](https://github.com/dalkak2/enz-pixi): [WIP] Performant EntryJS Runtime (2023-2025)
 - [Entry-compat-table](https://github.com/gnlow/Entry-compat-table): (2023-2024)
 ### Deno Sidekick
 - [tsm](https://github.com/gnlow/tsm): CDN<TS => JS> (2023)
@@ -21,8 +21,8 @@
 - [xmd](https://github.com/gnlow/xmd): MDX -> MD (2023)
 - [gsheet.deno.dev](https://github.com/gnlow/gsheet.deno.dev): Load Google Sheets as CSV (2024)
 ### Utility
-- [twilight.js](https://github.com/gnlow/twilight.js): Twilight Colormap (2024)
-- [kml.ts](https://github.com/gnlow/kml.ts): KML Parser, Typed (2025)
+- [twilight.js](https://github.com/gnlow/twilight.js): Twilight Colormap for JS (2024)
+- [kml.ts](https://github.com/gnlow/kml.ts): [WIP] KML Parser (2025)
 ### Web App
 - [naganaga](https://github.com/gnlow/naganaga): Spreadsheet-integrated Dictionary (2024)
 ### Userscript
