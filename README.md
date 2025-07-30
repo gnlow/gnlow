@@ -22,6 +22,7 @@
 - [gsheet.deno.dev](https://github.com/gnlow/gsheet.deno.dev): Load Google Sheets as CSV (2024)
 ### Utility
 - [twilight.js](https://github.com/gnlow/twilight.js): Twilight Colormap for JS (2024)
+- [lilgpu](https://github.com/gnlow/lilgpu): Lil Wrapper to Toy with WebGPU (2025)
 - [kml.ts](https://github.com/gnlow/kml.ts): [WIP] KML Parser (2025)
 ### Web App
 - [naganaga](https://github.com/gnlow/naganaga): Spreadsheet-integrated Dictionary (2024)
